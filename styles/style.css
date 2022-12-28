@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+}
+
+#logo {
+    font-size: 48px;
+    font-weight: bolder;
+    color: red;
+}
+
+#title {
+    font-size: 32px;
+    font-weight: lighter;
+    color: purple;
+}
